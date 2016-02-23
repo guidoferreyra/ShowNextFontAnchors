@@ -1,7 +1,6 @@
-Show Next Font
+Show Next Font Anchors
 ==============
 
-## showNextFont.glyphsReporter
 This plugin shows in a light orange colour the list of anchors used in the glyph of the next font and in gray colour the list of current font anchors.  
 If anchors names and quantity matches between fonts it display the word "OK" in green.
 
