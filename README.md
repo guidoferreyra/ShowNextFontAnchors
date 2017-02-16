@@ -6,9 +6,11 @@ If anchors names and quantity matches between fonts it display the word "OK" in 
 
 ### How to use:
 Open two fonts and activate the plugin via **View>Show Next Font Anchors** menu item.
+The ammount of masters of the fonts should be the same, in case of difference the plugin shows the first master only
 
-### Notes:
-The ammount of masters of the fonts should be the same, in case of difference the plugin shows the first master only.
+### Installation:
+Download the plugin, open it and restart glyphs.
+For better update handling install the script via the **Window > Plugin Manager** inside Glyphs App.
 
 ### Donate
 If this plugin is helpful for you, maybe you can consider making a donation ;)
