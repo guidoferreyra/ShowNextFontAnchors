@@ -59,7 +59,7 @@ class showNextFontAnchors(ReporterPlugin):
 				nextLayer = nextGlyph.layers[activeMasterIndex]
 		
 			orange = NSColor.orangeColor().colorWithAlphaComponent_(0.67)
-			grey = NSColor.highlightColor().colorWithAlphaComponent_(0.9)
+			grey = NSColor.grayColor().colorWithAlphaComponent_(0.9)
 		
 			#Hago sets de las listas
 			nextFontAnchorsSet = set([a.name for a in nextLayer.anchors])
